@@ -4,6 +4,8 @@
 
 **Ссылка на проект в gh-pages: [changeColor](https://comediant24.github.io/changeColorBG/)**
 
+![Watch the video](./public/change-color.gif)
+
 ## 📖 Задача
 
 В перерывах между спринтами в Я.Практикум продолжаю осваивать JS. В поисках задач наткнулся на [JSBEGINNERS](https://jsbeginners.com/javascript-projects-for-beginners/) и его 100+ задач для начинающих JS.
